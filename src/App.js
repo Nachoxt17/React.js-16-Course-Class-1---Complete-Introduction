@@ -22,7 +22,7 @@ class ByeByeWorld extends React.Component {
 }
 
 /**+-(2)-Las Props(Propiedades) de los Componentes en React.js 16 actúan como Los Atributos de los Elementos HTML:_ Sirven para que un mismo Componente al Invocarlo varias veces Pero 
- * Ingresándole Distintos Parámetros(Como a una Función de JS) se presente de distintas Formas, LAS PROPS DON DATOS QUE NO VARÍAN UNA VEZ RENDERIZADAS.
+ * Ingresándole Distintos Parámetros(Como a una Función de JS) se presente de distintas Formas, LAS PROPS SON DATOS QUE NO VARÍAN UNA VEZ RENDERIZADAS.
  * Las Props se Utilizan en Forma de Objetos de JS Poniendo "props" como Parámetro a La Función del  Componente y luego escribiendo "{props.ObjectProperty}"(Entre LLaves similar a como en JQuery)
  *  donde "ObjectProperty" es la Propiedad del Objeto Props al cual le vamos a asignar un Valor específico al Declarar al Componente en Formato de Elemento HTML AutoCerrado.
  * NOTA:_ En los Componentes Tipo Clase las Props(Propiedades) se escriben {this.props.ObjectProperty}(Igual que en los Componentes Tipo Función pero con un "this." adelante) ya que no son
